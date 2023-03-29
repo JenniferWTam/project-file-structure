@@ -2,8 +2,8 @@
 
 ![this is us!](assets/IMG-2630.jpg)
 
-## 
-For this activity, the objective is to re-organize the files in this repo so they are organized in accordance with best practices.
+## Purpose
+Re-organize the files in this repository so they are organized in accordance with best practices.
 
 After re-organizing the files, it will also be necessary to update the imports in the program (.py) files so the tests may run successfully.
 
@@ -13,11 +13,14 @@ To check if the tests are running as expected, run the following command:
 python3 -m pytest test_X.py
 ```
 
-Replace X with addition, subtraction, multiplication, or division. If the file you are testing is nested in a sub-directory, please remember to cd into the directory before running the command.
+## License 
 
-Once the tests are running correctly, please also create the following for the project:
-* A README file explaining the project and how the modules can be used
-* A .gitignore file
-* Choose a license for the project
+MIT License
 
-You can find hints to get you started in the [hints.md](hints.md) file.
+Copyright (c) 2023 Yulia and Jennifer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
